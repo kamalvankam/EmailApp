@@ -1,0 +1,2 @@
+The task requires generating an email address with the format firstname.lastname@department.company.com. The department can be sales, development, or accounting, or left blank if there is none. The program should also generate a random password and have set methods to change the password, set the mailbox capacity, and define an alternate email address. 
+Additionally, there should be get methods to display the name, email, and mailbox capacity.
